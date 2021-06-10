@@ -9,4 +9,8 @@ This is a personal changelog of my learning over on freeCodeCamp (and any other 
 - Created this changelog using [Markdown](https://www.markdownguide.org/basic-syntax/)
 - Putzed around for many hours putting off actual coding, and instead made homemade tortilla chips
 
-#### Tuesday, June 1, 2021
+#### Tuesday, June 8, 2021
+- Completed Lessons 55 - 69 of [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
+### Thursday, June 10, 2021
+- Completed Lessons 69 - of [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
